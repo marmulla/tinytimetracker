@@ -17,6 +17,4 @@ $ git clone https://github.com/firebirdberlin/tinytimetracker.git
 $ cd tinytimetracker
 $ git submodule init
 $ git submodule update
-$ cd android/
-$ make debug
 ```
